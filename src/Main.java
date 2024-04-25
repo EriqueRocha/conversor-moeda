@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String apiKey = "5e93c796601871923fa0e130";
+    private static final String apiKey = "key";
 
     public static void main(String[] args) throws IOException {
 
