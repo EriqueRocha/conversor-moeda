@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String apiKey = "key";
+    private static final String apiKey = "apiKey";
 
     public static void main(String[] args) throws IOException {
 
