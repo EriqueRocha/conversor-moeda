@@ -1,0 +1,35 @@
+
+“	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹îğ¦8²àƒ¸ñ1J$4dd9b9d0-e63c-4367-a9e8-8b06843c3780
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ò’Óš8½àƒ¸ñ1J$36897f5d-a846-409a-8a3b-c47bb4dab720
+m	java:S106"+Replace this use of System.out by a logger.(ò¤µæ8Áàƒ¸ñ1J$14836b38-dc28-4c23-8c6c-2a7593908d7c
+m	java:S106"+Replace this use of System.out by a logger.(¼ã©ğ8Áàƒ¸ñ1J$86117dc8-b946-48b1-b51f-e794b4fee7bd
+m	java:S106"+Replace this use of System.out by a logger.(ò¤µæ8Áàƒ¸ñ1J$b13d8c72-829e-4e40-981e-b405a6fedba3
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Áàƒ¸ñ1J$2c8d4bcf-9faf-44cf-8c18-0d6bd293ad73
+l	java:S106"+Replace this use of System.out by a logger.(Ÿë·]8Âàƒ¸ñ1J$8f2454b4-837e-4ddd-8f17-7303dd0de3c3
+l	java:S106"+Replace this use of System.out by a logger.(ş‡¾8Âàƒ¸ñ1J$0a7f855a-c2e0-4e7d-ae35-2e494db67172
+r	java:S106"+Replace this use of System.out by a logger.(¬ó˜°ıÿÿÿÿ8Ãàƒ¸ñ1J$32353299-4f3c-4325-9c3c-ed937f3f1d5a
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ãàƒ¸ñ1J$8e611225-0cfd-4260-aa7b-8510d7da62ac
+r	java:S106"+Replace this use of System.out by a logger.(ü®ä«ıÿÿÿÿ8Ãàƒ¸ñ1J$a23f3135-9fc2-4f7a-b3d9-006d983a87c5
+m	java:S106"+Replace this use of System.out by a logger.(³æç½8Ãàƒ¸ñ1J$34c2c351-fa45-4f95-8eed-5b2ee3f1fed6
+m	java:S106'"+Replace this use of System.out by a logger.(›ò÷š8Ãàƒ¸ñ1J$62edba97-9f52-4b65-907f-d7ec569f2c25
+m	java:S106)"+Replace this use of System.out by a logger.(Ä“Ú‰8Ãàƒ¸ñ1J$61e0c719-fc12-4750-b8db-48df7db00986
+r	java:S1065"+Replace this use of System.out by a logger.(”ÎÅÎøÿÿÿÿ8Ãàƒ¸ñ1J$74fc35b4-868e-4e3a-aff5-a23cfc5e61dd
+m	java:S1068"+Replace this use of System.out by a logger.(ƒ€¥Ø8Çàƒ¸ñ1J$059901fb-6a7b-457a-89b5-5c8607511ee0
+l	java:S106<"+Replace this use of System.out by a logger.(¯Š¢f8Çàƒ¸ñ1J$c89b07e5-3daa-4f5c-aef5-e3e535a70351
+r	java:S106>"+Replace this use of System.out by a logger.(¿Ú›‘üÿÿÿÿ8Çàƒ¸ñ1J$366053c9-6e2d-49e4-9c6d-7d7330b1a204
+r	java:S106B"+Replace this use of System.out by a logger.(’€²ûÿÿÿÿ8Çàƒ¸ñ1J$1ac792b3-a64e-477e-a8da-5b866b5e1500
+‹
+java:S1858D"H"valor" is already a string, there's no need to call "toString()" on it.(¹îğ¦8Äàƒ¸ñ1J$14b5cf31-5434-4317-af0a-937954371129
+z
+java:S1874M"2Remove this use of "JsonParser"; it is deprecated.(‘¹¯µıÿÿÿÿ8øÆ“¸ñ1J$36ec31b0-2e49-47c2-a938-2acb2f144b1e
+p
+java:S1874N"-Remove this use of "parse"; it is deprecated.(èÁ›Ç8ùÆ“¸ñ1J$8e2d4622-4f84-4a47-ac06-a676a78f6a6d
+l	java:S106R"+Replace this use of System.out by a logger.(¥ÖC8Çàƒ¸ñ1J$825a05bc-841d-41e7-88fc-6339a8fc3046
+m	java:S106S"+Replace this use of System.out by a logger.(é¿¶¤8¦Ş—¸ñ1J$04decde7-f373-4c0a-8753-8c70067f5b04
+m	java:S106T"+Replace this use of System.out by a logger.(ÎÒ©˜8úĞ˜¸ñ1J$e3cdf94d-b88e-4682-a4dc-70c337bf6ab0
+l	java:S106U"+Replace this use of System.out by a logger.(¥ÖC8ò¹œ¸ñ1J$c2099317-4f41-4357-a934-205e34e5afd5
+m	java:S106X"+Replace this use of System.out by a logger.(±ö–ı8Î±¸ñ1J$78a4d7ff-5fc0-43bd-8106-07c4445b6dec
+r	java:S106Y"+Replace this use of System.out by a logger.(èÜ¡üÿÿÿÿ8Áé¤¸ñ1J$a4a36922-af1f-4661-a9e7-5ba4afe2e8be
+m	java:S106Z"+Replace this use of System.out by a logger.(±ö–ı8Áé¤¸ñ1J$d0f42336-d088-4754-84d3-f012b689e368
+r	java:S106["+Replace this use of System.out by a logger.(¥äÊõøÿÿÿÿ8ƒ˜©¸ñ1J$bd50318b-19a1-4bfe-bc77-3ea6c23c255d
+G	java:S106\"+Replace this use of System.out by a logger.(³¼ÅÓ8ò¬¸ñ1
